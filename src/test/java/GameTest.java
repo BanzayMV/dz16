@@ -1,6 +1,3 @@
-import org.example.Game;
-import org.example.NotRegisteredException;
-import org.example.Player;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
